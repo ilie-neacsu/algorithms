@@ -1,0 +1,9 @@
+.custom-code-block {
+    background-color: #007acc;
+    color: #f8f8f2;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1em;
+    font-family: Consolas, 'Courier New', monospace;
+    overflow-x: auto;
+}
